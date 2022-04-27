@@ -5,4 +5,4 @@ def get_product_by_id(id: int):
   product.id = 1
   product.name = 'Nintendo Switch Oled'
   product.price = 50000
-  
+  return product
